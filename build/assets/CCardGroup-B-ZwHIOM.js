@@ -1,0 +1,1 @@
+import{r as p,_ as d,U as n,a as t,c as i,P as a}from"./index-DfFeeYQG.js";var s=p.forwardRef(function(r,e){var c=r.children,l=r.className,o=d(r,["children","className"]);return n.createElement("div",t({className:i("card-group",l)},o,{ref:e}),c)});s.propTypes={children:a.node,className:a.string};s.displayName="CCardGroup";export{s as C};

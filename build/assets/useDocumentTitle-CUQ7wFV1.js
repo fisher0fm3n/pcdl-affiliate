@@ -1,0 +1,1 @@
+import{r as e}from"./index-DfFeeYQG.js";function o(t,u=!1){const c=e.useRef(document.title);e.useEffect(()=>{document.title=t},[t]),e.useEffect(()=>()=>{u||(document.title=c.current)},[])}export{o as u};
